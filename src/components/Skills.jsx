@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Skill() {
+function Skills() {
   return (
     <section id="skills">
       <h2>Skills</h2>
@@ -37,4 +37,4 @@ function Skill() {
   );
 }
 
-export default Skill
+export default Skills
