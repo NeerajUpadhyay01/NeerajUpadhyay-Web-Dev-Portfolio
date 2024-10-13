@@ -38,7 +38,7 @@ function About() {
           <a href="tel:+916378086178">
             <button>Contact Me</button>
           </a>
-          <a href="https://drive.google.com/file/d/1S-1pK8ORPHcdI0HNwfWS9kJT8Elr1oNk/view?usp=drive_link">
+          <a href="https://drive.google.com/file/d/1TvI07-z1ordPBUlX-DbWg52GZFZ2n2Ab/view?usp=drive_link">
             <button>See Resume</button>
           </a>
         </div>

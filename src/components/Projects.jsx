@@ -6,13 +6,24 @@ function Projects() {
       <h2>Projects</h2>
       <div>
         <div className="project">
-          <h3>Cat Aid</h3>
+          <h3>The Coca-Cola Company</h3>
           <p>
-            Developed the static frontend web application using HTML and CSS to
-            assist injured street cats. The platform allows users to learn about
-            the rescued cats, visit them, and adopt them.
+            Created a 3D front-end website similar to the Coca-Cola company’s
+            website. Also, implemented immersive 3D animations to enhance user
+            engagement.
           </p>
-          <a href="https://cat-aid.onrender.com/">
+          <a href="https://the-coca-cola-company.vercel.app/">
+            <button>Try it here</button>
+          </a>
+        </div>
+        <div className="project">
+          <h3>BuzzTube</h3>
+          <p>
+            A comprehensive web application allowing users to upload, stream and
+            comment on videos seamlessly. Users can also share their thoughts
+            and experiences by tweeting directly from the application.
+          </p>
+          <a href="https://video-streaming-project-frontend.vercel.app/">
             <button>Try it here</button>
           </a>
         </div>
@@ -25,18 +36,6 @@ function Projects() {
           </p>
           <a href="https://car-rental-xt9c.onrender.com/">
             <button>Try it here</button>
-          </a>
-        </div>
-        <div className="project">
-          <h3>Video Streaming App</h3>
-          <p>
-            Developing a video streaming web application using MERN stack,
-            allowing users to upload, stream, and comment on videos seamlessly.
-            Users can share their thoughts and experiences by tweeting directly
-            from the application.
-          </p>
-          <a href="https://github.com/NeerajUpadhyay01/Video-Streaming-Project-Frontend">
-            <button>See on github</button>
           </a>
         </div>
       </div>
